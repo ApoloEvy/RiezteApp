@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!-- palheta cores usadas-->
+
+    <color name="whitepurple"> #A68F97 </color>
+    <color name="whiteGray"> #79717A </color>
+    <color name="GrayClassic"> #4B4952 </color>
+    <color name="BlackSolid"> #1F2024 </color>
+    <color name="GreenClassic"> #004F4D </color>
+
+    <!-- palheta completa -->
+</resources>
